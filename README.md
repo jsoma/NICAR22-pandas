@@ -1,4 +1,4 @@
-You can find this repo at [https://bit.ly/nicar22-pandas](https://bit.ly/nicar22-pandas)
+🔗 You can find this repo at [https://bit.ly/nicar22-pandas](https://bit.ly/nicar22-pandas)
 
 # Intro to data analysis using Pandas 🐼 (NICAR 2022)
 
