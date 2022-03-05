@@ -2,7 +2,7 @@
 
 # Intro to data analysis using Pandas 🐼 (NICAR 2022)
 
-We have two datasets we'll be working with: one is nice and simple and one is wild and fancy!
+We have two datasets we'll be working with: one is nice and simple and one is wild and fancy! The wild and fancy one is the same dataset that [is behind this Quartz story](https://archive.ph/GmQTC).
 
 If you'd like to type along on your own computer, download this repo and load up either the notebook in the `simple-data` or `fancy-data` folder.
 
