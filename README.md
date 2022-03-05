@@ -10,8 +10,8 @@ If you'd like to type along on your own computer, download this repo and load up
 
 If it's too much work to get the notebook functioning on your computer, you can use Google Colab. It can run a Jupyter notebook in the cloud! The follow-along version has you type along with me for each and every step, while the pre-filled version you just run code that's already been typed in each cell.
 
-* **Simple data:** [Follow-along version](https://colab.research.google.com/github/jsoma/NICAR22-pandas/blob/master/interactive/Introduction%20to%20pandas%20%28simple%20data.ipynb), [pre-filled version](https://colab.research.google.com/github/jsoma/NICAR22-pandas/blob/master/interactive/Introduction%20to%20pandas%20%28simple%20data%2C%20pre-filled%29.ipynb)
-* **Fancy data:** [Follow-along version](https://colab.research.google.com/github/jsoma/NICAR22-pandas/blob/master/interactive/Introduction%20to%20pandas%20%28fancy%20data.ipynb), [pre-filled version](https://colab.research.google.com/github/jsoma/NICAR22-pandas/blob/master/interactive/Introduction%20to%20pandas%20%28fancy%20data%2C%20pre-filled%29.ipynb)
+* **Simple data:** [Follow-along version](https://colab.research.google.com/github/jsoma/NICAR22-pandas/blob/master/interactive/Introduction%20to%20pandas%20%28simple%20data%29.ipynb), [pre-filled version](https://colab.research.google.com/github/jsoma/NICAR22-pandas/blob/master/interactive/Introduction%20to%20pandas%20%28simple%20data%2C%20pre-filled%29.ipynb)
+* **Fancy data:** [Follow-along version](https://colab.research.google.com/github/jsoma/NICAR22-pandas/blob/master/interactive/Introduction%20to%20pandas%20%28fancy%20data%29.ipynb), [pre-filled version](https://colab.research.google.com/github/jsoma/NICAR22-pandas/blob/master/interactive/Introduction%20to%20pandas%20%28fancy%20data%2C%20pre-filled%29.ipynb)
 
 ### Completed versions
 
